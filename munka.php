@@ -28,6 +28,7 @@
   $ynagy= 23;
   print ($kicsi * $nagy) . "<br /><br />" ;
   
+  
 
   print "<br /><br />" . $x-$y;
 
