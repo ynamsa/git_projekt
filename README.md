@@ -18,13 +18,13 @@ Zenedoboz: https://www.zenedoboz.hu
 
 Ebben a sorban beillesztett `<b>kódrészlet</b>` van.
 
-###PHP kód
+### PHP kód
 ```php
 $a = 23;
 $b = 11;
 echo $a + $b;
 ```
-###JavaSCRIPT kód
+### JavaSCRIPT kód
 ```javascript
 var p = 23;
 alert("hahaha");
