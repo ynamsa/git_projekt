@@ -21,6 +21,21 @@
   
   print "<br /><br />" . $z-$y-$x . "<br /><br />" ;
   
+  
+   // Szorzás
+  //-------------------------------
+  
+  $kicsi = 3;
+  $ynagy= 23;
+  print ($kicsi * $nagy) . "<br /><br />" ;
+  
+  
+  // Osztás
+  //-------------------------------
+  $egyik = 25;
+  $masik = 5;
+  
+  print ($egyik / $masik) . "<br /><br />";
 
 
 
