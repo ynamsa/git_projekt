@@ -20,10 +20,16 @@
   
 
   print "<br /><br />" . $x-$y;
+  
+   // Szorzás
+  //-------------------------------
+  
+  $kicsi = 3;
+  $ynagy= 23;
+  print ($kicsi * $nagy) . "<br /><br />" ;
+  
 
-
-  print "Konfliktus lesz";
-
+  print "<br /><br />" . $x-$y;
 
 
 
