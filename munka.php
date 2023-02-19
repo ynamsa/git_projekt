@@ -8,11 +8,12 @@
 
   $a = 105;
   $b = 17;
-  $c = 12;
-  $d = 34;
+  $c = 120;
+  $d = 36;
   
-
   print $a+$b+$c+$d;
+
+  // a Githubon szerkesztettem
 
   // Kivonás
   //-------------------------------
