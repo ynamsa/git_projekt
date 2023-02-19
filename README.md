@@ -1,4 +1,4 @@
 # Első GIT projektünk
 ## Ez a rövid leírás
 
-oktatóvideók tananyag gyakorló
+Az **oktatóvideók** tananyag gyakorló *projektje*.
